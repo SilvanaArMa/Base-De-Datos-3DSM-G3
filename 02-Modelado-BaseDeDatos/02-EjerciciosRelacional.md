@@ -24,7 +24,7 @@
 ## Ejercicio 3:
 
 ## Diagrama del Ejercicio 3
-![Diagrama ](/img/ER/Diagrama3.pnG)
+![Diagrama ](/img/ER/Diagrama3.png)
 
 ## Mapeo a Diagrama Relacional 
 
